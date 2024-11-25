@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "OutSystems.ExternalLibraries.SDK/1.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/OutSystems.ExternalLibraries.SDK.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/OutSystems.ExternalLibraries.SDK.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    "net8.0/linux-x64": {
+      "OutSystems.ExternalLibraries.SDK/1.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/OutSystems.ExternalLibraries.SDK.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/OutSystems.ExternalLibraries.SDK.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OutSystems.ExternalLibraries.SDK/1.5.0": {
+      "sha512": "1NbfQpIaNIpqXprzUhLRlq+DmwO+Ngml/xVMNhof9nfLIVhcjareSWgXFjj1n03As51rnkXS3Ocnk/knU6YMWw==",
+      "type": "package",
+      "path": "outsystems.externallibraries.sdk/1.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "OutSystems.png",
+        "README.MD",
+        "lib/net6.0/OutSystems.ExternalLibraries.SDK.dll",
+        "lib/net6.0/OutSystems.ExternalLibraries.SDK.xml",
+        "lib/net8.0/OutSystems.ExternalLibraries.SDK.dll",
+        "lib/net8.0/OutSystems.ExternalLibraries.SDK.xml",
+        "lib/netstandard2.0/OutSystems.ExternalLibraries.SDK.dll",
+        "lib/netstandard2.0/OutSystems.ExternalLibraries.SDK.xml",
+        "outsystems.externallibraries.sdk.1.5.0.nupkg.sha512",
+        "outsystems.externallibraries.sdk.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OutSystems.ExternalLibraries.SDK >= 1.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\johnessilva_frwk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\johnessilva_frwk\\Documents\\C#_Extended\\Validar_CPF_CNPJ-20241108T125344Z-001\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ.csproj",
+      "projectName": "Validar_CPF_CNPJ",
+      "projectPath": "C:\\Users\\johnessilva_frwk\\Documents\\C#_Extended\\Validar_CPF_CNPJ-20241108T125344Z-001\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ.csproj",
+      "packagesPath": "C:\\Users\\johnessilva_frwk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\johnessilva_frwk\\Documents\\C#_Extended\\Validar_CPF_CNPJ-20241108T125344Z-001\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\johnessilva_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "OutSystems.ExternalLibraries.SDK": {
+            "target": "Package",
+            "version": "[1.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  }
+}

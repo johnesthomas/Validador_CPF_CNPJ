@@ -1,0 +1,4 @@
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Release\net8.0\linux-x64\publish\Validar_CPF_CNPJ.dll
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Release\net8.0\linux-x64\publish\Validar_CPF_CNPJ.deps.json
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Release\net8.0\linux-x64\publish\Validar_CPF_CNPJ.pdb
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Release\net8.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll

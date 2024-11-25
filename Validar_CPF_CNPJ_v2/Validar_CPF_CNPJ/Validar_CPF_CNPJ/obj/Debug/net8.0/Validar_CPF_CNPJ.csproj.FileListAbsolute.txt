@@ -1,0 +1,12 @@
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Debug\net8.0\Validar_CPF_CNPJ.deps.json
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Debug\net8.0\Validar_CPF_CNPJ.dll
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\bin\Debug\net8.0\Validar_CPF_CNPJ.pdb
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.csproj.AssemblyReference.cache
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.AssemblyInfoInputs.cache
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.AssemblyInfo.cs
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.dll
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\refint\Validar_CPF_CNPJ.dll
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\Validar_CPF_CNPJ.pdb
+C:\Users\johnessilva_frwk\Documents\C#_Extended\Validar_CPF_CNPJ-20241108T125344Z-001\Validar_CPF_CNPJ\Validar_CPF_CNPJ\obj\Debug\net8.0\ref\Validar_CPF_CNPJ.dll

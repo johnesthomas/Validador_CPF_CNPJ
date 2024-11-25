@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3Ez4rlhNlAFPkwkzoMl1zFO2EjCsYE2uivQpIUoCxZfpRZiZ8k1GCIskfTESMZohPbmsZ0iprfVk+LGgw/5oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnessilva_frwk\\Documents\\C#_Extended\\Validar_CPF_CNPJ-20241108T125344Z-001\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ\\Validar_CPF_CNPJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnessilva_frwk\\.nuget\\packages\\outsystems.externallibraries.sdk\\1.5.0\\outsystems.externallibraries.sdk.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
